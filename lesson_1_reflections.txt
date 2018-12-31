@@ -1,0 +1,74 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It.s very eazy and simple
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Good
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Not good
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Fill in your answer here
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	Mnually choosing commit is the best.
+	Manually I can create my checke points there for next time when I refers those, the point shows me what I have to consider.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	Git allow saving multiple files in one commit beacuse this is made for software and the software is not a single file but it is a collections of files, there for we need to track down ower check point what kind of chages we done in every file.
+	On other hand Google Docs is not makde for software development there for they dosen't need to worry aboiut multiple saving in single commit.
+
+
+How can you use the commands git log and git diff to view the history of files?
+	
+	git log that print diffrent commits.
+	git diff that going to print what lines I had removed and what lines I had added. 
+
+
+How might using version control make you more confident to make changes that could break something?
+	
+	version control is definatly not goig to break my code if I make change that code back to any check point but just I have to remember my original HEAD check point.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I want to use git for my every future projects.
+
+	git --version
+	git clone
+	git lod
+	git diff old new 
+
+	git -a -> to see hidden files
+	git init -> to start new repository
+	git status -> show you which file has been chenged
+	git add -> add file into staging area
+
+	git confing --global color.ui auto
+
+	q = get out from git log
+
+f19cb1b80fe27e938e4d72770ca0a42f25e99ecc b0678b161fcf74467ed3a63110557e3d6229cfa6
